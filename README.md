@@ -4,7 +4,7 @@
 - ⌨ I’m currently working on a small React hobby project and a portfolio website to better display future projects. 
 
 - 🌱 I’m currently searching for a fulltime job and working on hobby projects.
-
+- ⚡ Fun fact: Before i finished my education i was playing curling semi-professional and have played competitions all over the world!
 - 📫 You can reach me at: **sebbanjones@gmail.com**
 
 
