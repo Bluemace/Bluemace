@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian!</h1>
 
 
-- ⌨ I’m currently working on: A small React hobby project and a portfolio to better display future projects. 
+- ⌨ I’m currently working on a small React hobby project and a portfolio to better display future projects. 
 
 - 🌱 I’m currently searching for a fulltime job and working on hobby projects.
 
